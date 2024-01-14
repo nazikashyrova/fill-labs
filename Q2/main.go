@@ -15,6 +15,3 @@ func RecursiveFunc(n int) []int {
 
 	return output
 }
-
-func main() {
-}
